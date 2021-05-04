@@ -1,0 +1,21 @@
+.SearchTop{
+    padding:10px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.inputUser{
+    height: 1px;
+    width: 250px;
+    border-radius: 5px;
+    padding: 20px;
+    border: none;
+    background-color: #44475a;
+    color:#bd93f9;
+    font-weight: bold;
+}
+
+.inputUser:focus{
+    border: none;
+}
