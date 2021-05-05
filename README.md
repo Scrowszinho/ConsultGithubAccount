@@ -7,7 +7,7 @@ Um aplicativo criado em ReactJS para exibir
 algumas informações vindas da API do github. <br />
 
 <div align="center">
-<img src="./github/gif.gif">
+<img src="./.github/gif.gif">
 </div> <br />
 # 🔧 Ferramentas
 
